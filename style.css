@@ -338,7 +338,7 @@ body {
 .circle {
     width: 13px;
     height: 13px;
-    background-color: white;
+    background-color: orange;
     border-radius: 15px;
     position: relative;
     bottom: 5px;
