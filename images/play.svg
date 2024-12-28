@@ -1,0 +1,8 @@
+<!-- <svg width="24" height="24" viewBox="0 0 24 24" color="#ffffff" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M5 20V4L19 12L5 20Z" stroke="#141B34" stroke-width="1.5" stroke-linejoin="round"/>
+</svg> -->
+
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+  <!-- Single triangle pointing right for play -->
+  <polygon points="8,5 8,19 18,12" fill="white"/>
+</svg>
